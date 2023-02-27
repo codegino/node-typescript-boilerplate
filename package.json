@@ -16,7 +16,7 @@
     "coverage": "jest --coverage"
   },
   "devDependencies": {
-    "@trivago/prettier-plugin-sort-imports": "3.4.0",
+    "@trivago/prettier-plugin-sort-imports": "4.1.1",
     "@types/faker": "5.5.9",
     "@types/jest": "27.0.3",
     "@types/node": "16.11.19",
