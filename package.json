@@ -25,7 +25,7 @@
     "cz-conventional-changelog": "3.3.0",
     "eslint": "8.33.0",
     "eslint-config-prettier": "8.5.0",
-    "eslint-plugin-jest": "25.3.4",
+    "eslint-plugin-jest": "27.6.3",
     "faker": "5.5.3",
     "jest": "27.4.7",
     "nodemon": "2.0.20",
